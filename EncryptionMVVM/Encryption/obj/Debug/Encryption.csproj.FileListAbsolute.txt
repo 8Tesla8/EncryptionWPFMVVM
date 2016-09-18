@@ -1,0 +1,5 @@
+E:\ProjectsVS\encryption\Encryption\Encryption\bin\Debug\Encryption.dll
+E:\ProjectsVS\encryption\Encryption\Encryption\bin\Debug\Encryption.pdb
+E:\ProjectsVS\encryption\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\encryption\Encryption\Encryption\obj\Debug\Encryption.dll
+E:\ProjectsVS\encryption\Encryption\Encryption\obj\Debug\Encryption.pdb
